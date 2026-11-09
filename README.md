@@ -4,7 +4,7 @@ Banco digital fictício feito com **HTML, CSS e JavaScript puro**, sem framework
 
 > Projeto educacional. Não é um banco real: o CNPJ, os telefones, o endereço, os números e as empresas que aparecem no site são fictícios.
 
-**Demonstração:** https://kanetoallan-jpg.github.io/banco-digital-community-bank/ (disponível quando o GitHub Pages estiver ativado no repositório)
+**Demonstração:** https://kanetoallan.github.io/banco-digital-community-bank/ (disponível quando o GitHub Pages estiver ativado no repositório)
 
 ---
 
